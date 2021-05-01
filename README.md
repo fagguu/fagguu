@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fagguu.
 - 👀 I’m interested in coding and hacking.
-- 🌱 I’m currently learning c and using linix.
+- 🌱 I’m currently learning c and using linux.
 - 💞️ I’m looking to collaborate with hacking.
 - 📫 How to reach me by online videos.
 
